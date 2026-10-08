@@ -1,0 +1,28 @@
+# Oracle / PL/SQL
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# SQL Developer
+*.dbeaver
+*.sqldeveloper
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets
+*.env
+*.properties
+secrets/
+
+# Output / dumps
+*.out
+*.dmp
+export/
