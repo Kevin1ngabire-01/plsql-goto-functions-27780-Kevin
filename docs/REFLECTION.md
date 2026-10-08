@@ -2,8 +2,7 @@
 
 **Student:** Kevin  
 **Student ID:** 27780  
-**Course:** Database Development with PL/SQL (INSY 8311)  
-**Date:** October 2026
+**Course:** Database Development with PL/SQL  
 
 ---
 
